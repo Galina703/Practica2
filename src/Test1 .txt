@@ -1,4 +1,5 @@
 Salut
 Buna ziua.
 Incepem lucru in Java. Va urez succes.
+Toate clasele se vor desfasura in mod online si vom avea nevoie de participarea dumneavoastra pentru ca lectille sa fie interctive.
 
