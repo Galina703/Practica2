@@ -1,2 +1,4 @@
 Salut
 Buna ziua.
+Incepem lucru in Java. Va urez succes.
+
